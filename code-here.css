@@ -1,0 +1,53 @@
+#classic {
+  padding: 1em;
+  text-align: justify;
+}
+
+#modern {
+  padding: 1em;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #fad700;
+}
+
+#impact {
+  border: 1em double black;
+  padding: 1em;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #90ee90
+}
+
+#elise {
+  padding: 1em;
+  text-align: center;
+  border: .5em groove #faebd7;
+  font-family: cursive;
+  background-color: #fefaf0
+}
+
+#one, #two  {
+  display: inline-block;
+  text-align: center;
+  border: groove;
+  font-family: sans-serif;
+  padding: 1em;
+  background-color: #7ffed4;
+  margin-top: 6em;
+  margin-left: 1em
+}
+
+#gaudi {
+  padding: 1.5em;
+  text-align: center;
+  font-family: "Gill Sans", sans-serif;
+  border-radius: 10% 30% 10% 30%;
+  background: peachpuff;
+  font-size: 1em;
+  box-shadow: 1px 1px 1px black;
+  background-color: #f6a07b
+}
+
+
+
+
